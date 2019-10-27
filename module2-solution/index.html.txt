@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Coursera module 2</title>
+	<link rel="stylesheet" href="index-css.css">
+</head>
+<body>
+<h1>Our Menu</h1>
+<title id="meat">
+	<p></p>
+</title>
+<title id="chicken">
+	<p></p>
+</title>
+<title id="sushi">
+	<p></p>
+</title>
+
+</body>
+</html>
