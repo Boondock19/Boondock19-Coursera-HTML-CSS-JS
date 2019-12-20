@@ -7,12 +7,7 @@ body {
 	color: blue;
 }
 
-#main-content {
-	
-	border-color: black;
-	background-color: grey;
-	border-style:double;
-}
+
 
 #collapse-navbar a {
 	text-align: center;
@@ -33,7 +28,7 @@ body {
 
 
 #main-content-h3 {
-	text-align: center;
+	
 	color: red;
 }
 
@@ -62,4 +57,27 @@ body {
 
 .nav .navbar-nav {
 	color:black;
+}
+
+section{
+	background-color: grey;
+	border:2px solid black;
+}
+
+#Chicken-tile{
+	border:3px solid black;
+	background-color: grey;
+	margin-bottom:  15px;
+}
+
+#Beef-tile{
+	border:3px solid black;
+	background-color: grey;
+	margin-bottom:  15px;
+}
+
+#Sushi-tile{
+	border:3px solid black;
+	background-color: grey;
+
 }
